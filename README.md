@@ -12,3 +12,9 @@ This is a repository to practice making a Pull Request and also tell a little bi
 ## Contribute
 
 1. Fork the repo
+2. In your new repo, click "Create new file"
+3. Name the new file `<Your Name>`.md
+4. Write about you
+5. Hit "Commit Changes" at the bottom of the page
+6. Then at the top left of your repo click "Create Pull Request"
+7. You should see instructions on completing the PR. If you need help, just let someone know.
