@@ -1,7 +1,9 @@
-###Your name###
+###Your name
+
 Christopher Calmes
 
 ###Your favorite hobbies
+
 Coding, rock climbing, reading, and cooking
 
 ###Your least favorite candy
